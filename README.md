@@ -123,6 +123,9 @@ curl http://localhost:42000/greeting
 
 ## Publicar en Docker Hub
 
+<img width="1557" height="982" alt="Captura de pantalla 2025-09-14 193909" src="https://github.com/user-attachments/assets/9477050e-a04b-4d9d-8e74-c30ef87f4874" />
+<img width="1912" height="890" alt="Captura de pantalla 2025-09-14 194001" src="https://github.com/user-attachments/assets/98090a0f-4d63-4120-8cbb-9bfcea55da0b" />
+
 ```bash
 # Autenticarse
 docker login
@@ -143,6 +146,11 @@ docker push dnieblen/firstsprkwebapprepo:latest
 ---
 
 ## Despliegue en AWS EC2
+<img width="872" height="100" alt="Captura de pantalla 2025-09-14 193115" src="https://github.com/user-attachments/assets/58e5d9a4-2ddf-4ae0-a577-3e54a78ff4f9" />
+<img width="1136" height="268" alt="Captura de pantalla 2025-09-14 192926" src="https://github.com/user-attachments/assets/d99502e4-c7ca-430d-9672-445ddef5dba1" />
+<img width="1890" height="972" alt="Captura de pantalla 2025-09-14 193058" src="https://github.com/user-attachments/assets/1026780f-3b7a-47c2-bf36-ea257fe89561" />
+
+
 
 1. **Crear EC2**
    - AMI: **Amazon Linux 2** (o Amazon Linux 2023)
