@@ -186,6 +186,8 @@ uta\mi-llave.pem" ec2-user@<IP_PUBLICA>
 ---
 
 ## Pruebas de verificación
+<img width="797" height="99" alt="imagen" src="https://github.com/user-attachments/assets/bdfb378d-ade6-4c7f-b4a3-6a981a57009c" />
+<img width="1848" height="589" alt="imagen" src="https://github.com/user-attachments/assets/9c9634c7-d367-41c5-ba40-30736aa6df28" />
 
 - **Salud básica:** `GET /greeting` → 200 OK y cuerpo `"Hello, World!"`  
 - **Parámetro:** `GET /greeting?name=Ada` → `"Hello, Ada!"`  
